@@ -1,0 +1,14 @@
+version: 1.0
+shards:
+  crayon:
+    github: molovo/crayon
+    version: 0.1.0
+
+  hncr:
+    github: Gangwolf/hncr
+    commit: 0be3775febc4973febaffda4ef922c99e7468990
+
+  opts:
+    github: maiha/opts.cr
+    version: 0.1.1
+

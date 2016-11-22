@@ -1,0 +1,15 @@
+name: hncr-cli
+version: 0.1.0
+
+authors:
+  - Dan <gangwolf@mail.com>
+
+license: MIT
+
+dependencies:
+  opts:
+    github: maiha/opts.cr
+  crayon:
+    github: molovo/crayon
+  hncr:
+    github: Gangwolf/hncr
